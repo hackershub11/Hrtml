@@ -15,7 +15,7 @@ function App(){
     <div className="app">
       <button onClick={Increment}>Increment</button>
       <h1>{count}</h1>
-      <Tweet name="Puru" message="Hello World"/>
+   
       <Tweet name="DEv" message="Hello Puru"/>
       <Tweet name="Joe" message="Hello World"/>
       <Tweet name="Jaes"/>
